@@ -33,6 +33,7 @@ print("  1 - Start")
 print("  2 - Quit")
 print("-" * 30)
 
+
 while True:
     start = input("Enter your choice: ").strip()
     
