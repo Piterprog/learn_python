@@ -82,4 +82,3 @@ elif choice == "**":
     result = power(num1, num2)
 
 print(f"{num1} {choice} {num2} = {result}")
-
